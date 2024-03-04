@@ -1,7 +1,12 @@
 {
 
-"name": "catest",
+  "name": "catest",
   "url": "https://dl.kamu.jp/packages/catest.tar.gz",
+  "files": [
+
+    "catest"
+    
+  ],
   "dependencies": [
 
     
