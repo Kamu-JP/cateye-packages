@@ -9,7 +9,7 @@
   ],
   "dependencies": [
 
-      "https://dl.kamu.jp/newline/pkg.json"
+      "https://raw.githubusercontent.com/Kamu-JP/cateye-packages/main/Packages/newline.json"
 
   ],
   "script": [
