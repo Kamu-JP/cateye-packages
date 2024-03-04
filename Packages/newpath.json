@@ -2,6 +2,11 @@
 
   "name": "newpath",
   "url": "https://dl.kamu.jp/packages/newpath.tar.gz",
+  "files": [
+
+    "newpath"
+    
+  ],
   "dependencies": [
 
       "https://dl.kamu.jp/newline/pkg.json"
