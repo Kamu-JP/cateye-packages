@@ -1,2 +1,2 @@
 # cateye-packages
-List of packages that Cateye downloads (Beta)
+List of packages that Cateye downloads
