@@ -2,6 +2,11 @@
 
   "name": "newline",
   "url": "https://dl.kamu.jp/packages/newline.tar.gz",
+  "files": [
+
+    "newline"
+    
+  ],
   "dependencies": [
 
   ],
