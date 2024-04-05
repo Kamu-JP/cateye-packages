@@ -1,0 +1,17 @@
+{
+
+  "name": "papergui",
+  "url": "https://kamu.jp/files/papergui.tar.gz",
+  "files": [
+
+    "papergui"
+    
+  ],
+  "dependencies": [
+
+  ],
+  "script": [
+
+  ]
+
+}
