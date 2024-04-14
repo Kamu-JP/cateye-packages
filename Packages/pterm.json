@@ -2,6 +2,7 @@
 
   "name": "pterm",
   "url": "https://dl.kamu.jp/packages/pterm.tar.gz",
+  "folder": "/opt/cateye/bin/",
   "files": [
 
     "pterm"
