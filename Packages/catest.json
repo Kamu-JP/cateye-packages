@@ -1,6 +1,7 @@
 {
 
   "name": "catest",
+  "folder": "/opt/cateye/bin/",
   "url": "https://dl.kamu.jp/packages/catest.tar.gz",
   "files": [
 
