@@ -2,6 +2,7 @@
 
   "name": "newpath",
   "url": "https://dl.kamu.jp/packages/newpath.tar.gz",
+  "folder": "/opt/cateye/bin/",
   "files": [
 
     "newpath"
