@@ -2,6 +2,7 @@
 
   "name": "papergui",
   "url": "https://kamu.jp/files/papergui.tar.gz",
+  "folder": "/opt/cateye/bin/",
   "files": [
 
     "papergui"
