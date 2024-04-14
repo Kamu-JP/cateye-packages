@@ -2,6 +2,7 @@
 
   "name": "info-kun",
   "url": "https://dl.kamu.jp/packages/info-kun.tar.gz",
+  "folder": "/opt/cateye/bin/",
   "dependencies": [
 
   ],
