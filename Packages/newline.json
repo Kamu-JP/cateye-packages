@@ -2,6 +2,7 @@
 
   "name": "newline",
   "url": "https://dl.kamu.jp/packages/newline.tar.gz",
+  "folder": "/opt/cateye/bin/",
   "files": [
 
     "newline"
